@@ -1,0 +1,55 @@
+<html>
+ <body>
+
+  <h1 id="top">My Top Three!</h1>
+
+              <a href="#Hip-Hop">Hip Hop</a>
+ &nbsp;&nbsp;<a href="#RnB">RnB</a>
+ &nbsp;&nbsp;<a href="#Rap">Rap</a>
+
+  <br/>
+ <h2 id="Hip-Hop">Hip Hop</h2>
+ &nbsp;&nbsp;<a href="#RnB">RnB</a>
+ &nbsp;&nbsp;<a href="#Rap">Rap</a>
+ <ol>
+ <li><b> Pretty Girls like trap music : 2 Chainz </b> <img src="https://www.rap-up.com/app/uploads/2017/05/2-chainz-pgltm.jpg" alt="Pretty" width="300" height="300" />
+ </li> <br/>
+ <li><b>Acid Rap :Chance the Rapper</b><img src="https://i1.sndcdn.com/artworks-000046904102-0iwr24-t500x500.jpg" width="300" height="300" />
+ </li> <br/>
+ <li><b>Culture : Migos  </b> <img src="https://upload.wikimedia.org/wikipedia/en/1/10/MigosCulture.jpg" alt="Culture" width="300" height="300" /></li>
+ </ol>
+ <br/>
+
+  <h2 id="RnB">RnB</h2>
+   <a href="#Hip-Hop">Hip Hop</a>
+ &nbsp;&nbsp;<a href="#Rap">Rap</a>
+ <ol>
+ <li><b> Ella Mai: Ella Mai</b>
+ <img src="http://s1.ticketm.net/dam/a/87d/cf90f030-df2e-4943-b1eb-06c2de4f587d_872841_TABLET_LANDSCAPE_3_2.jpg" alt=" Ella Mai" width="300" height="300" /></li> <br/>
+ <li><b>K.T.S.E: Teyana Taylor </b> <img src="https://static.hiphopdx.com/2018/06/180623-Teyana-Taylor-KTSE-cover-hero-800x600.jpg" alt="Studio" width="300" height="300" />
+ </li>
+ <br/>
+ <li><b>
+  In My Own Words: Ne-Yo </b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/In_my_own_words_Ne-Yo.jpg" alt="Twelves" width="300" height="300" /></li>
+ </ol>
+ <br/>
+
+  <h2 id="Pop">Pop</h2>
+   <a href="#Hip-Hop">Hip Hop</a>
+ &nbsp;&nbsp;<a href="#RnB">RnB</a>
+ <br/>
+ <ol>
+ <li><b>beyoncé (deluxe) :Beyoncé Mars</b>&nbsp;&nbsp;
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/BeyoncéPlatinumEditionCover.png" alt="Beyonce" width="300" height="300" /></li><br/>
+ <li><b> Blonde : Frank Ocean</b> 
+ <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg"
+ alt="Blonde " width="300" height="300" /></li>
+ <br/>
+ <li> <b> 24K Magic : Bruno Mars</b>
+ <img src="https://upload.wikimedia.org/wikipedia/en/2/2b/Bruno_Mars_-_24K_Magic_%28Official_Album_Cover%29.png" alt="II" width="300" height="300" /></li>
+ </ol>
+
+  <a href="#top">Top</a>
+ </body>
+ </html>
